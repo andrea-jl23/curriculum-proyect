@@ -1,15 +1,7 @@
 # curriculum-proyect
 Proyecto Curriculum TICMAS - Argentina Programa 4.0
 
-<li><a href='INFORMACIÓN PERSONAL Y DE CONTACTO'>INFORMACIÓN PERSONAL Y DE CONTACTO</a></li>
-<li>
-<li><a href='EXPERIENCIA LABORAL'>EXPERIENCIA LABORAL</a></li>
-<li>
-<li><a href='ESTUDIOS ACADÉMICOS'>ESTUDIOS ACADÉMICOS</a></li>
-<li>
-<li><a href='COMPETENCIAS'>COMPETENCIAS</a></li>
-<li>
-<li><a href='CURSOS, SEMINARIOS Y CAPACITACIONES'>CURSOS, SEMINARIOS Y CAPACITACIONES</a></li>
-<li>
-<li><a href='CONTACTAR'>CONTACTAR</a></li>
-<li></li></li></li></li></li></li>
+Consigna
+Para la realización de este proyecto, te invitamos a imaginarte que sos un desarrollador recién incorporado en un nuevo emprendimiento tecnológico.
+En tu primera tarea en la empresa, te solicitan que realices una página web que posea un curriculum vitae. La creación de este cv onlinte te permitirá llevar a la práctica todo lo que fuimos trabajando a lo largo de los módulos. El CV comprende información personal, experiencia y habilidades.
+En el último modulo del curso, encontrarás el apartado "Proyecto Final" con las etapas para poder realizarlo, recomendaciones, guías y condiciones para la entrega. ¡Te recomendamos que no dejes de consultarlo!
